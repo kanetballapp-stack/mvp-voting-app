@@ -1,0 +1,9 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Allow read/write to the mvp votes document only
+    match /mvp/votes {
+      allow read, write: if true;
+    }
+  }
+}
