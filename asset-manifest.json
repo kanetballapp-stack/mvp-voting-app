@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/mvp-voting-app/static/js/main.3b83ce32.js",
+    "main.js": "/mvp-voting-app/static/js/main.fc1dbb2e.js",
     "index.html": "/mvp-voting-app/index.html",
-    "main.3b83ce32.js.map": "/mvp-voting-app/static/js/main.3b83ce32.js.map"
+    "main.fc1dbb2e.js.map": "/mvp-voting-app/static/js/main.fc1dbb2e.js.map"
   },
   "entrypoints": [
-    "static/js/main.3b83ce32.js"
+    "static/js/main.fc1dbb2e.js"
   ]
 }
